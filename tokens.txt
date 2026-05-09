@@ -1,0 +1,8 @@
+pip install pyTelegramBotAPI
+
+8672604801:AAGG2EWXce08N8Q6Tee2Z4ihEu0zgQiYd7E -- @wfwefddas_bot -- 1
+8606089954:AAGAhlDHecwzRbWVXeaU-73Bn5V4OnCLORI -- @jashdrilk_bot -- 2
+8220931966:AAGc4-IVJwk-N8ajZE-VzWkSrCFxvTqxe4c -- @yjfghsdse_bot -- 3
+8663922143:AAFpDM0sM5vJq1bNTofGDeGHpf4KA5EgPkw -- @vrtymcybcvnuyt_bot -- 4
+8756005796:AAH-M-jArD6ZmXHZyof32qOJPJ7Gueml16I -- @jtyhrdtgdfb_bot -- 5
+7870343173:AAF1CPCLhOixSvvzJd6orrElP0sfUd2M0_I -- @MaxtwixBot -- Maxtwix
