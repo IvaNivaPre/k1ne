@@ -1,4 +1,5 @@
 pip install pyTelegramBotAPI
+pip install openai
 
 8672604801:AAGG2EWXce08N8Q6Tee2Z4ihEu0zgQiYd7E -- @wfwefddas_bot -- 1
 8606089954:AAGAhlDHecwzRbWVXeaU-73Bn5V4OnCLORI -- @jashdrilk_bot -- 2
